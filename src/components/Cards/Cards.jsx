@@ -1,9 +1,12 @@
 import { render } from '@testing-library/react';
 import React from 'react';
+import {Card, CardContent, Typography, Grid } from '@material-ui/core';
+import styles from './Cards.module.css';
 
-const Cards = () => {
+const Cards = (props) => {
+    console.log(props);
     return (
-        <h1>Cards</h1>
+        <div className>={styles.container}</div>
     )
 }
 
