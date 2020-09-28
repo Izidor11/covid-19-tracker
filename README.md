@@ -1,6 +1,8 @@
-Not fully finished, as api/daily endpoint is not reachable anymore.
+Not fully finished as the api/daily is not reacable.
 
+Some ugly image about the project:
 https://scontent-vie1-1.xx.fbcdn.net/v/t1.15752-9/120324426_761772924677263_170769814757696537_n.png?_nc_cat=110&_nc_sid=b96e70&_nc_ohc=UmRSmsr5BWEAX-jfTr8&_nc_ht=scontent-vie1-1.xx&oh=2da71e79735d4ae21208f4b464104a86&oe=5F9995D6
+
 
 ## Available Scripts
 
