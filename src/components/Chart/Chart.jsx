@@ -5,5 +5,4 @@ const Chart = () => {
         <h1>Charts</h1>
     )
 }
-
 export default Chart;
